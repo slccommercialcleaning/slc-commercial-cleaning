@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://extra-small-plain-wallaby-4wdhjf.teleporthq.site/sitemap.xml
